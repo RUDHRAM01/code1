@@ -10,5 +10,3 @@ let j = 1;
 
 console.log("calling");
 hello(i,j);
-
-console.log("done");
